@@ -17,7 +17,7 @@ docker image 삭제 : docker rmi [image_name]
 docker run -it --name tapark -p80:80 -p443:443 ft_server  
 -i : interactive  
 -t : terminal  
---name [container_name]: container 이름 설정
+--name [container_name]: container 이름 설정  
 -it : 터미널 환경을 열어서 입력할 수 있게 하는 옵션  
 -p [내부포트]:[외부포트] : 포트설정 / 80:80 http port / 443:443 https port  
   
