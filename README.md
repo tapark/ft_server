@@ -13,3 +13,6 @@ docker run -it -p80:80 -p443:443 ft_server
 -t : terminal  
 -it : 터미널 환경을 열어서 입력할 수 있게 하는 옵션  
 -p [내부포트]:[외부포트] : 포트설정 / 80:80 http 포트 / 443:443 https 포트  
+
+# 기타 명령어 참고
+https://blog.naver.com/minhyupp/222245079411  
