@@ -25,7 +25,7 @@ docker container 목록(실행중) : docker ps
 docker container 목록(전체) : docker ps -a  
 docker container 삭제 : docker rm -f ([container_name] or [container_id])  
   
-* image가 포함된 contianer 삭제 후 image 삭제 가능  
+* image가 포함된 container 삭제 후 image 삭제 가능  
 
 # 기타 명령어 참고
 https://blog.naver.com/minhyupp/222245079411  
