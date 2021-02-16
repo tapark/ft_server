@@ -28,4 +28,4 @@ docker container 삭제 : docker rm -f ([container_name] or [container_id])
 * image가 포함된 container 삭제 후 image 삭제 가능  
 
 # 기타 명령어 참고
-https://blog.naver.com/minhyupp/222245079411  
+https://yeosong1.github.io/%EB%8F%84%EC%BB%A4-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C
