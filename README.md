@@ -1,5 +1,5 @@
 # ko.subject
-[42seoul-translation/subject_ko/ft_server]https://github.com/42seoul-translation/subject_ko/pull/13/commits/aa01a2795453eea170e15fa9bb44d6e91fc4d842#diff-9227e4448d114339cc06feadc443c20d682bc720dde83b232edd33eeb942dbda{:target="_blank"}
+[42seoul-translation/subject_ko/ft_server](https://github.com/42seoul-translation/subject_ko/pull/13/commits/aa01a2795453eea170e15fa9bb44d6e91fc4d842#diff-9227e4448d114339cc06feadc443c20d682bc720dde83b232edd33eeb942dbda){:target="_blank"}
 
 # docker 실행
 git clone https://github.com/alexandregv/42toolbox  
