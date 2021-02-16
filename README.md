@@ -6,11 +6,11 @@ git clone https://github.com/alexandregv/42toolbox
 cd 42toolbox  
 ./init_docker.sh  
 
-# docker image 빌드(생성)
+# docker image 빌드 (이미지)
 docker build -t ft_server .  
 docker build -t [이미지이름] [경로]  
 
-# dockerfile 실행
+# dockerfile 실행 (컨테이너)
 docker run -it -p80:80 -p443:443 ft_server  
 -i : interactive  
 -t : terminal  
